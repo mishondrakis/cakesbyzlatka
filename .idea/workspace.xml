@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a1a2fe2b-39f1-4f08-b913-c40908d09244" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,11 +52,11 @@
     <session id="1128518969">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -104,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-297">
-              <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+            <state relative-caret-position="2835">
+              <caret line="105" column="60" selection-start-line="105" selection-start-column="60" selection-end-line="105" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -113,8 +112,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-61619">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="351">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -122,16 +121,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-55031">
+            <state relative-caret-position="122175">
               <caret line="4525" column="7" selection-start-line="4525" selection-start-column="7" selection-end-line="4525" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -178,31 +177,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="cakesbyzlatka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cakesbyzlatka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cakesbyzlatka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cakesbyzlatka" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cakesbyzlatka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cakesbyzlatka" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -250,6 +225,9 @@
       <workItem from="1547680128955" duration="6000" />
       <workItem from="1547741542712" duration="37000" />
       <workItem from="1547763892782" duration="319000" />
+      <workItem from="1547764271454" duration="26000" />
+      <workItem from="1548882016855" duration="159000" />
+      <workItem from="1548991670578" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="small changes">
       <created>1546814778613</created>
@@ -314,14 +292,22 @@
       <option name="project" value="LOCAL" />
       <updated>1546842529526</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="small changes">
+      <created>1547764285253</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547764285253</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10818000" />
+    <option name="totallyTimeSpent" value="11006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2485129" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -357,6 +343,13 @@
     <entry file="file://$PROJECT_DIR$/Touche Free Website Template - Free-CSS.com/css/bootstrap.css" />
     <entry file="file://$PROJECT_DIR$/Touche Free Website Template - Free-CSS.com/css/style.css" />
     <entry file="file://$PROJECT_DIR$/Touche Free Website Template - Free-CSS.com/index.html" />
+    <entry file="file://$PROJECT_DIR$/img/gallery-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio/12-large1.jpg" />
+    <entry file="file://$PROJECT_DIR$/img/portfolio/13-small.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2484">
@@ -364,29 +357,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/gallery-bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/portfolio/12-large1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/portfolio/13-small.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-297">
-          <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+        <state relative-caret-position="2835">
+          <caret line="105" column="60" selection-start-line="105" selection-start-column="60" selection-end-line="105" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61619">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="351">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -395,10 +376,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55031">
+        <state relative-caret-position="122175">
           <caret line="4525" column="7" selection-start-line="4525" selection-start-column="7" selection-end-line="4525" selection-end-column="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
